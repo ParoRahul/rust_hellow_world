@@ -1,0 +1,10 @@
+{
+    "search.exclude": {
+        "**/target": true,
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/target": true,
+    },
+    "editor.tabSize": 2,
+}
