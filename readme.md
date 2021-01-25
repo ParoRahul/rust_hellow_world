@@ -19,7 +19,7 @@
 
 ---
 
-# Building app the in debug mode
+# Building the app in debug mode
 
 
 * from CLI do --- ``` cargo build```, will build the app in debug mode. 
@@ -30,7 +30,7 @@
 
 ---
 
-# Building app the in release mode
+# Building the app in release mode
 
 * from CLI do --- ``` cargo build --release```, will build the app in debug mode. 
 
